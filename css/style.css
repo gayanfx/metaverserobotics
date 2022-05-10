@@ -620,6 +620,7 @@ padding: 10px 0;
     
     /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
     
+
     #quote-carousel .carousel-indicators {
         bottom: -20px !important;  
     }
