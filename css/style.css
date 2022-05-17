@@ -911,6 +911,9 @@ border-radius: 50%;
         height:100vh;
         display:block;
     }
+	.mobilemargin {
+margin-bottom: 800px;
+	}
 }
 * {
 	box-sizing: border-box;
